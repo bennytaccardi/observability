@@ -17,5 +17,4 @@ scrape_configs:
     metrics_path: /metrics
     scheme: http
     static_configs:
-      - targets:
-          ["https://urlshorty-omwqlgswq-bennytaccardis-projects.vercel.app"]
+      - targets: ["urlshorty-omwqlgswq-bennytaccardis-projects.vercel.app"]
