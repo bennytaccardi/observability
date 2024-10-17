@@ -17,4 +17,4 @@ scrape_configs:
     metrics_path: /api/metrics
     scheme: http
     static_configs:
-      - targets: ["urlshorty-ten.vercel.app"]
+      - targets: ["urlshortly112233.netlify.app"]
